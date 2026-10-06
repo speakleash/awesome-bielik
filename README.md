@@ -41,6 +41,7 @@ Wyselekcjonowana lista projektów, aplikacji, asystentów, narzędzi, badań i w
 - [Tiny-RAG-PL](https://github.com/Kacper0199/Tiny-RAG-PL) — query decomposition, routing, filtering, hallucination validation.
 - [polish-rag](https://github.com/Kurdzik/polish-rag) — RAG zoptymalizowany pod polski.
 - [bielik-workshop / Eskadra Misja 2](https://github.com/jasiecky/bielik-workshop) — bezserwerowy RAG.
+- [DORSZ = Bielik + OpenAI Agents SDK](https://github.com/grzegorz-aniol/dorsz) - Dokładne Odpytywanie Rozpoznające Sedno Zagadnienia. Projekt do testów Bielika z wykorzystaniem OpenAI Agents SDK.
 
 ## Narzędzia i integracje
 
