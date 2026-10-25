@@ -28,6 +28,7 @@ Wyselekcjonowana lista projektów, aplikacji, asystentów, narzędzi, badań i w
 - [anon-legal-pl](https://github.com/apiotrowski-afk/anon-legal-pl) — anonimizacja PII w polskich dokumentach prawnych.
 - [MICFLOW](https://github.com/KW-FD2E/MICFLOW) — lokalne dyktowanie PL/EN na macOS.
 - [bielik-hallucination-detection](https://github.com/agentGreg/bielik-hallucination-detection) — detekcja sygnałów halucynacji.
+- [Yuqa AI](https://yuqa.pl) — asystent AI on-premise dla contact center i zespołów sprzedaży: podpowiedzi dla konsultanta w trakcie rozmowy, transkrypcja z maskowaniem danych osobowych i baza wiedzy RAG; modele zbudowane na Bieliku działają w całości na serwerach klienta.
 
 ## RAG i lokalni agenci
 
