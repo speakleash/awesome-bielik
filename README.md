@@ -29,6 +29,7 @@ Wyselekcjonowana lista projektów, aplikacji, asystentów, narzędzi, badań i w
 - [MICFLOW](https://github.com/KW-FD2E/MICFLOW) — lokalne dyktowanie PL/EN na macOS.
 - [bielik-hallucination-detection](https://github.com/agentGreg/bielik-hallucination-detection) — detekcja sygnałów halucynacji.
 - [Yuqa AI](https://yuqa.pl) — asystent AI on-premise dla contact center i zespołów sprzedaży: podpowiedzi dla konsultanta w trakcie rozmowy, transkrypcja z maskowaniem danych osobowych i baza wiedzy RAG; modele zbudowane na Bieliku działają w całości na serwerach klienta.
+- [Bielik OneClick](https://ghrik.github.io/bielik_oneclick_launcher/) — Opensource aplikacja na Androida(bez logowania), która upraszcza uruchamianie modeli Bielik dla zwykłej nietechnicznej osoby. Dodatkowo posiada funkcjonalności zintegrowane z Androidem "Zapytaj Bielika". Dostępne dwa małe modele 1.5B i 4.5B.
 
 ## RAG i lokalni agenci
 
